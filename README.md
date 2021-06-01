@@ -9,10 +9,10 @@
 
 You need python 3 for this.
 
-<code>git clone repository_link</code>
-<code>pip3 install beautifulsoup4</code>
-<code>pip3 install requests</code>
-<code>cd web_scrapper</code>
+<code>git clone repository_link</code><br />
+<code>pip3 install beautifulsoup4</code><br />
+<code>pip3 install requests</code><br />
+<code>cd web_scrapper</code><br />
 <code>python3 main.py</code>
 
 ## Contributing
